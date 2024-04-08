@@ -30,7 +30,7 @@ body {
     max-width: 680px;
 }
 
-.main > div {
+.main > a > div {
     max-width: 100%;
     margin: 10px;
     text-align: center;
